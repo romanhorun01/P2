@@ -1,0 +1,43 @@
+.mainBox{
+    margin: 0 auto;
+
+}
+.Header{
+    background: #0A66A9;
+    border: black 2px solid;
+    width: 1500px;
+    height: 250px;
+}
+.Nav{
+    background: #124B78;
+    margin-top: 5px;
+    border: black 2px solid;
+    width: 1500px;
+    height: 150px;
+
+}
+.downBox{
+    display: flex;
+}
+.Main{
+    background: #16A2C5;
+    margin-top: 5px;
+    border: black 2px solid;
+    width: 1000px;
+    height: 800px;
+
+}
+.Aside{
+    background:#5275AD;
+    margin-top: 5px;
+    border: black 2px solid;
+    width: 500px;
+    height: 800px;
+}
+.Footer{
+    background: #7ECBE4;
+    margin-top: 5px;
+    border: black 2px solid;
+    width: 1500px;
+    height: 150px;
+}

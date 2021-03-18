@@ -1,0 +1,39 @@
+.box1{
+
+    margin: 0 auto;
+}
+#header{
+
+    background:#E6F7B0;
+    width: 1000px;
+    height: 200px;
+    border: black 2px solid;
+}
+.box2{
+    display: flex;
+}
+
+#menu{
+    background: #FFB7FF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 410px;
+    border: black 2px solid;
+}
+.post{
+    margin-left: 10px;
+    background: #9FE2FF;
+    margin-top: 10px;
+
+    width: 785px;
+    height: 200px;
+    border: black 2px solid;
+
+}
+#footer{
+    background:#E6F7B0;
+    width: 1000px;
+    height: 200px;
+    border: black 2px solid;
+}

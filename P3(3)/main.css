@@ -1,0 +1,102 @@
+.mainBox {
+    margin: 0 auto;
+    width: 1000px;
+    height: 2000px;
+    border: silver 10px solid;
+}
+
+.Header {
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 200px;
+    margin-top: 10px;
+    border: lightgreen 10px solid;
+}
+
+.Nav {
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 100px;
+    margin-top: 10px;
+    border: #FFB7FF 10px solid;
+}
+
+.Article {
+
+    width: 70%;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 1300px;
+    margin-top: 10px;
+    border: #9FE2FF 10px solid;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.down {
+
+    width: 95%;
+
+
+}
+
+.Header1 {
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 200px;
+
+    margin-top: 10px;
+    border: lightgreen 10px solid;
+}
+
+.Section {
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+
+    border: hotpink 10px solid;
+}
+
+.Footer {
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+
+    border: yellow 10px solid;
+}
+
+.Div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 1300px;
+    width: 250px;
+    border: orange 10px solid;
+
+}
+.Aside{
+    width: 85%;
+    height: 500px;
+    margin: 10px 5px;
+    border: #9FE2FF 10px solid;
+
+}
+.box1{
+    display: flex;
+}
+.Footer1 {
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 270px;
+    margin-top: 10px;
+    border: yellow 10px solid;
+}
+

@@ -1,0 +1,36 @@
+html{
+    background: antiquewhite;
+}
+.underline {
+
+    border-bottom: 2px solid black;
+
+}
+.line{
+    border-bottom: 2px solid black;
+    width: 1100px;
+}
+
+p.text {
+
+    margin: 7px 330px 7px 7px;
+}
+
+
+.im {
+    background:bisque;
+    border: 2px solid black;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 20px;
+    margin-top: 270px;
+    padding-top: 20px;
+
+
+}
+div.Tdiv{
+    font-family: "Arial Narrow", serif;
+    margin-left: 40px;
+}
+
